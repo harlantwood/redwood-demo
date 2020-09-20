@@ -3,5 +3,5 @@
   to = "/index.html"
   status = 200
 
-[build]
-  functions = ".redwood/functions/graphql/"
+# [build]
+#  functions = ".redwood/functions/graphql/"
